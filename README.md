@@ -2,10 +2,11 @@
 
 ## Members: Wayne, Jae, Jerry
 
-Beginning of the 592 final project.
+## Files in the repo:
+- `Flirting_Detection_BERT.ipynb`
+    - BERT pipeline implementation to perform fine-tuning 
+- `Flirting_Detection_LSTM.ipynb`
+    - Original implementation of LSTM pipeline, which showed severe over-fitting with unsatisfactory accuracy result
+- `Flirting_Detection_LSTM_OPT.ipynb`
+    - Improved LSTM pipeline, with rigorous hyper-parameter tuning and data pre-processing
 
-## Installation & Setup
-1. Set up virtual environment: `python3 -m venv .env`
-2. Activate virtual environment: `source .env/bin/activate`
-3. Update Python tools: `pip install --upgrade pip setuptools wheel`
-4. Install necessary dependencies: `pip install -r requirements.txt`
