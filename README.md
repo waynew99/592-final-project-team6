@@ -1,4 +1,4 @@
-# 592-final-project
+# 592-final-project-team6
 
 ## Members: Wayne, Jae, Jerry
 
